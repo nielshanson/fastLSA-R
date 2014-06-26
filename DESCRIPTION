@@ -1,0 +1,11 @@
+Package: fastpackage
+Type: Package
+Title: A simple sandbox package for learning about R.
+Version: 1.0
+Date: 2014-05-08
+Author: Niels W. Hanson <nielsh@mail.ubc.ca>
+Maintainer: Niels W. Hanson <nielsh@mail.ubc.ca>
+Description: This package has examples of basic R functions (like
+    cat_function()) and other function that call C directly for speed (like
+    subdiagC()).
+License: LGPL-2.1

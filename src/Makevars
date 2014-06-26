@@ -1,0 +1,4 @@
+
+#PKG_CXXFLAGS=-O3 ${SHLIB_OPENMP_CXXFLAGS}
+PKG_CXXFLAGS=-O3 -fopenmp
+PKG_LIBS=-lgomp -fopenmp
